@@ -22,7 +22,7 @@ I'm currently focusing on enhancing my skills in AI and machine learning, and I'
 ## Get in Touch
 
 -   📧 Email:  venkidesh.venu.04@gmail.coom
-- -   💬 LinkedIn: https://www.linkedin.com/in/venkidesh-venu/
+-   💬 LinkedIn: https://www.linkedin.com/in/venkidesh-venu/
 -   🐦 Twitter: https://twitter.com/04Venkidesh
 
 Feel free to connect with me if you'd like to discuss AI, machine learning, or anything related to computer science!
