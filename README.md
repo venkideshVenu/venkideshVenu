@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding and dedicated to advan
 
 ## About Me
 
--   💼 Student a Muthoot Institute Of Science and Technology, Varikoli
+-   💼 Student at Muthoot Institute Of Science and Technology, Varikoli
 -   🎓 Pursuing B.Tech in Computer Science - Artificial Intelligence
 -   💡 I'm eager to learn and explore new technologies, especially in the realms of AI, machine learning, and data science.
 
