@@ -99,3 +99,6 @@
 <footer style="text-align: center; margin-top: 50px; color: #666; font-style: italic;">
   Thank you for visiting my profile. Let's innovate and create together!
 </footer>
+
+
+Visitors Counts : ![Visitor Count](https://profile-counter.glitch.me/venkideshVenu/count.svg)
