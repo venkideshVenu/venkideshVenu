@@ -1,104 +1,106 @@
-<div align="center">
-  <h1 style="color: #333; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Venkidesh Venu</h1>
-  <p style="color: #666; font-style: italic; font-size: 18px;">Aspiring AI Engineer | B.Tech Computer Science Student</p>
-</div>
+<h1 align="center">Hi 👋, I'm Venkidesh Venu</h1>
+<h3 align="center">A passionate AI & Full Stack Developer from Kerala, India 🚀</h3>
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h2 style="color: #0077B5; border-bottom: 2px solid #0077B5; padding-bottom: 10px;">About Me</h2>
-  <p style="line-height: 1.6;">
-    Welcome to my GitHub profile! I'm a dedicated Computer Science student specializing in Artificial Intelligence, driven by a passion for leveraging cutting-edge technology to solve complex real-world problems. My academic journey at Muthoot Institute Of Science and Technology has equipped me with a strong foundation in computer science principles and a deep understanding of AI concepts.
-  </p>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;">🎓 Pursuing B.Tech in Computer Science with AI specialization</li>
-    <li style="margin-bottom: 10px;">🔍 Focused on mastering AI, Machine Learning, and Data Science techniques</li>
-    <li style="margin-bottom: 10px;">💡 Enthusiastic about exploring emerging technologies and their practical applications</li>
-    <li style="margin-bottom: 10px;">🌱 Continuously learning and adapting to the rapidly evolving tech landscape</li>
-  </ul>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E3&center=true&vCenter=true&random=false&width=435&lines=AI+Developer;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
 
-<div style="background-color: #e6f3ff; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h2 style="color: #0077B5; border-bottom: 2px solid #0077B5; padding-bottom: 10px;">Technical Expertise</h2>
-  <p style="line-height: 1.6;">
-    My technical skills span a variety of programming languages and technologies, allowing me to approach problems from multiple angles:
-  </p>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </div>
-  <h3 style="color: #0077B5; margin-top: 20px;">Areas of Interest:</h3>
-  <ul style="list-style-type: square; padding-left: 20px;">
-    <li>Artificial Intelligence algorithms and methodologies</li>
-    <li>Machine Learning model development and optimization</li>
-    <li>Data Science techniques for analysis and visualization</li>
-    <li>Web Development using modern frameworks and libraries</li>
-    <li>Version control and collaborative development with Git</li>
-  </ul>
-</div>
+## 🎓 About Me
 
-  <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px 0;">
-    <h2 style="color: #0077B5; border-bottom: 2px solid #0077B5; padding-bottom: 10px;">Recent Activities & Projects</h2>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 15px;">
-        <strong>Farm-to-Table Community Network:</strong> Developed a web solution connecting farmers and consumers directly, promoting sustainable and healthy food practices. Integrated Django for backend functionality and hosted on PythonAnywhere.
-      </li>
-      <li style="margin-bottom: 15px;">
-        <strong>Data Visualization Tool:</strong> Built an interactive tool using Django for inputting, updating, and visualizing data in various formats, assisting in effective data analysis and decision-making.
-      </li>
-      <li style="margin-bottom: 15px;">
-        <strong>Disease Detection from X-ray Images:</strong> Developing a CV and AI/ML project aimed at detecting diseases from X-ray images using machine learning algorithms.
-      </li>
-      <li style="margin-bottom: 15px;">
-        <strong>Disaster Management System:</strong> Working on a project using ESP32 and machine learning for disaster management applications.
-      </li>
-      <li style="margin-bottom: 15px;">
-        <strong>Camera-based Inventory Management:</strong> Developing a monitoring system for inventory management using computer vision techniques.
-      </li>
-    </ul>
-  </div>
+- 🎯 I'm currently pursuing **B.Tech in Computer Science (AI Specialization)** at **MITS Kerala**
+- 🌱 I'm diving deep into **Artificial Intelligence** and **Full Stack Development**
+- 💼 Maintaining a strong **CGPA of 8.84/10**
+- 🏆 Achieved **95.6%** in High School Education
+- 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/venkideshVenu)
+- 📫 Reach me at **venkidesh.venu.04@gmail.com**
 
-  <div style="background-color: #e6f3ff; padding: 20px; border-radius: 10px; margin: 20px 0;">
-    <h2 style="color: #0077B5; border-bottom: 2px solid #0077B5; padding-bottom: 10px;">Achievements</h2>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">🏅 IBM SkillsBuild Badges: Web Development Fundamentals, Explore Emerging Tech</li>
-      <li style="margin-bottom: 10px;">🏆 Hackathon Participation: FOSSHack - Contributing innovative solutions in open-source technology</li>
-      <li style="margin-bottom: 10px;">🌟 Forage Simulation: Completed Tata Group's Data Visualization simulation, crafting insightful visualizations for data analysis</li>
-    </ul>
-  </div>
+## 🚀 Featured Projects
 
-<div style="background-color: #e6f3ff; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h2 style="color: #0077B5; border-bottom: 2px solid #0077B5; padding-bottom: 10px;">Professional Development</h2>
-  <p style="line-height: 1.6;">
-    I'm committed to continuous growth and improvement in my field. My professional development activities include:
-  </p>
-  <ul style="list-style-type: circle; padding-left: 20px;">
-    <li>Participating in coding challenges and hackathons to sharpen problem-solving skills</li>
-    <li>Collaborating on open-source projects to gain real-world development experience</li>
-    <li>Attending AI and machine learning workshops and webinars</li>
-    <li>Reading research papers to stay updated with the latest advancements in AI</li>
-    <li>Networking with industry professionals and fellow students in the field</li>
-  </ul>
-</div>
+### 1. HopeLine - AI-Powered Addiction Recovery App
+<img align="right" src="https://img.shields.io/badge/Status-In%20Progress-green">
 
-<div style="text-align: center; margin-top: 30px;">
-  <h2 style="color: #0077B5;">Let's Connect</h2>
-  <p style="line-height: 1.6;">
-    I'm always open to discussing new ideas, collaborating on projects, or engaging in conversations about the latest trends in technology. Feel free to reach out!
-  </p>
-  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-    <a href="mailto:venkidesh.venu.04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/venkidesh-venu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/04Venkidesh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  </div>
-</div>
+- 🤖 AI-powered personalized companion
+- 🧘‍♂️ Meditation tools & community support
+- 🎵 Interactive features including reward system & music player
+- 🛠️ **Tech Stack:** Flutter, Node.js, SQLite, AI Integration
 
-<footer style="text-align: center; margin-top: 50px; color: #666; font-style: italic;">
-  Thank you for visiting my profile. Let's innovate and create together!
-</footer>
+### 2. SeaGro - Multi-Service Platform
+<img align="right" src="https://img.shields.io/badge/Status-Completed-blue">
 
+- 💼 Integrated job search & learning management
+- 🚲 Bike sharing & social networking features
+- 🔄 Real-time functionality with modular architecture
+- 🛠️ **Tech Stack:** Django, Python, SQLite, Bootstrap
 
-Visitors Counts : ![Visitor Count](https://profile-counter.glitch.me/venkideshVenu/count.svg)
+### 3. SixersClub - Cricket Tournament System
+<img align="right" src="https://img.shields.io/badge/Status-Completed-blue">
+
+- 🏏 Comprehensive cricket tournament management
+- 👥 Multi-role dashboard system
+- 📊 Performance tracking & news updates
+- 🛠️ **Tech Stack:** Django, SQLite, HTML/CSS, JavaScript
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=venkideshVenu&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=venkideshVenu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=venkideshVenu&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🏆 Certifications & Achievements
+
+- 🎓 **IBM SkillsBuild Badges**
+  - Web Development Fundamentals
+  - Explore Emerging Tech
+- 📚 **NPTEL Certifications**
+  - Programming in Java (57%)
+  - Python for Data Science (78%)
+  - Computer Architecture (60%)
+- 💼 **IBM Summer Internship** - 6-week Frontend Development
+- 🏆 **FOSSHack Participation** - Open Source Technology Solutions
+- 🌟 **WebBuzz Competition** - Ranked 191st
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkideshvenu">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:venkidesh.venu.04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/venkideshVenu">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkideshVenu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
