@@ -1,106 +1,125 @@
-<h1 align="center">Hi 👋, I'm Venkidesh Venu</h1>
-<h3 align="center">A passionate AI & Full Stack Developer from Kerala, India 🚀</h3>
-
-<p align="center">
+<h1 align="center">Hi 👋, I'm Venkidesh Venu</h1><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E3&center=true&vCenter=true&random=false&width=435&lines=AI+Developer;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
+<h3 align="center">AI Enthusiast | Full Stack Developer | Tech Explorer from Kerala, India</h3>
 
-## 🎓 About Me
 
-- 🎯 I'm currently pursuing **B.Tech in Computer Science (AI Specialization)** at **MITS Kerala**
-- 🌱 I'm diving deep into **Artificial Intelligence** and **Full Stack Development**
-- 💼 Maintaining a strong **CGPA of 8.84/10**
-- 🏆 Achieved **95.6%** in High School Education
-- 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/venkideshVenu)
-- 📫 Reach me at **venkidesh.venu.04@gmail.com**
-
-## 🚀 Featured Projects
-
-### 1. HopeLine - AI-Powered Addiction Recovery App
-<img align="right" src="https://img.shields.io/badge/Status-In%20Progress-green">
-
-- 🤖 AI-powered personalized companion
-- 🧘‍♂️ Meditation tools & community support
-- 🎵 Interactive features including reward system & music player
-- 🛠️ **Tech Stack:** Flutter, Node.js, SQLite, AI Integration
-
-### 2. SeaGro - Multi-Service Platform
-<img align="right" src="https://img.shields.io/badge/Status-Completed-blue">
-
-- 💼 Integrated job search & learning management
-- 🚲 Bike sharing & social networking features
-- 🔄 Real-time functionality with modular architecture
-- 🛠️ **Tech Stack:** Django, Python, SQLite, Bootstrap
-
-### 3. SixersClub - Cricket Tournament System
-<img align="right" src="https://img.shields.io/badge/Status-Completed-blue">
-
-- 🏏 Comprehensive cricket tournament management
-- 👥 Multi-role dashboard system
-- 📊 Performance tracking & news updates
-- 🛠️ **Tech Stack:** Django, SQLite, HTML/CSS, JavaScript
-
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white)
-
-## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=venkideshVenu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=venkideshVenu&label=Profile%20views&color=0e75b6&style=flat" alt="venkideshVenu" />
+  <img src="https://img.shields.io/github/followers/venkideshVenu?label=Followers&style=social" alt="followers" />
 </p>
 
-<p align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=venkideshVenu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=venkideshVenu&layout=compact&theme=tokyonight" alt="Top Languages" />
+---
+
+### 🌟 About Me
+
+- 🎓 I'm a 3rd year B.Tech CSE student specializing in **Artificial Intelligence** at **MITS Kerala**
+- 🧠 Passionate about **AI, Full Stack Development, and Problem Solving**
+- 🔧 Currently building intelligent systems and multi-functional web platforms
+- 🎯 My goal is to create tech that drives real-world impact
+
+---
+
+### 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </p>
 
-## 🏆 Certifications & Achievements
+---
 
-- 🎓 **IBM SkillsBuild Badges**
-  - Web Development Fundamentals
-  - Explore Emerging Tech
-- 📚 **NPTEL Certifications**
-  - Programming in Java (57%)
-  - Python for Data Science (78%)
-  - Computer Architecture (60%)
-- 💼 **IBM Summer Internship** - 6-week Frontend Development
-- 🏆 **FOSSHack Participation** - Open Source Technology Solutions
-- 🌟 **WebBuzz Competition** - Ranked 191st
+### 📌 Featured Projects
 
-## 🤝 Connect With Me
+#### 🔹 [SnapFlow - AI-Powered Photographer Management](https://github.com/venkideshVenu/SnapFlow----From-Clicks-to-Memories)
+> A complete AI-driven event photography platform  
+- 🧠 TensorFlow for image tagging, enhancement, grouping  
+- 🔐 End-to-end encryption & GDPR-compliant privacy features  
+- 🌐 Real-time event photo sites + collaboration tools  
+- ⚙️ Stack: Django, TensorFlow, JavaScript, HTML/CSS, SQLite
+
+---
+
+#### 🔹 [VConnect - The Complete WebApp](https://github.com/venkideshVenu/VConnect---The-Complete-WebApp/)
+> One stop platform for everything — jobs, learning, travel, social  
+- 🧩 Modular system with 12 apps & multi-user support  
+- ⚡ Real-time functionality across services  
+- ⚙️ Stack: Django, Bootstrap, SQLite, JavaScript, HTML/CSS
+
+---
+
+#### 🔹 [SixersClub - Cricket Tournament Manager](https://github.com/venkideshVenu/SixersClub)
+> For fans, players, and team managers alike  
+- 🏏 Team registration, player performance, fan dashboards  
+- 📰 Live news, match updates, and social integration  
+- ⚙️ Stack: Django, SQLite, HTML/CSS, JavaScript
+
+---
+
+#### 🔹 [HopeLine - Addiction Recovery App](https://github.com/iammnandu/HopeLine)
+> Empowering recovery through tech & empathy  
+- 🧘 AI-powered meditation, companion chatbot, and community support  
+- 🔒 Authentication, music, quizzes & clean UI  
+- ⚙️ Stack: Flutter, Node.js, SQLite, Figma
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkideshvenu">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkideshVenu&show_icons=true&theme=radical" alt="venkideshVenu stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkideshVenu&theme=dark" alt="venkideshVenu streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkideshVenu&layout=compact&theme=dark" alt="venkideshVenu top languages"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkideshVenu&theme=darkhub&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+### 📬 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/venkidesh-venu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="mailto:venkidesh.venu.04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/venkideshVenu">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+  <a href="https://www.instagram.com/tec_no.phi_le" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="instagram"/>
   </a>
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkideshVenu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+### ☕ Support Me
+
+<p>
+  <a href="https://www.buymeacoffee.com/venkidesh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"/>
+  </a>
 </p>
