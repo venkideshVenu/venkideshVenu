@@ -68,12 +68,7 @@
 
 ---
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🧩 GitHub Analytics
 
@@ -88,29 +83,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkideshvenu&theme=matrix&row=2&column=4" />
-</p>
-
----
-
-## 📈 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/venkideshvenu/venkideshvenu/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-## 🧩 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/venkideshvenu?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&metadata=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&traffic=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.pushed=0&repositories.recent=0&discussions=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
@@ -140,11 +113,3 @@
 </p>
 
 ---
-
-## 📜 Dev Card
-
-<p align="center">
-  <a href="https://app.daily.dev/venkidesh" target="_blank">
-    <img src="https://api.daily.dev/devcards/v2/venkidesh.png?type=default&r=abc" width="356" alt="Venkidesh Venu's Dev Card"/>
-  </a>
-</p>
