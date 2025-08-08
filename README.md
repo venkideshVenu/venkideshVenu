@@ -8,10 +8,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full-Stack+Web+Developer;🌟+Building+Intelligent+Solutions;💡+Open+Source+Enthusiast;🔥+Turning+Coffee+into+Code;⚡+Innovation+%2B+Passion+%3D+Magic" alt="Typing SVG" />
-</p>
-
 <div align="center">
   <a href="https://github.com/venkideshvenu?tab=followers">
     <img src="https://img.shields.io/github/followers/venkideshvenu?label=Followers&style=social" alt="GitHub Followers" />
@@ -37,7 +33,7 @@
 Hey there! I'm Venkidesh, a final-year Computer Science student at <b>MITS Kerala</b> with a specialization in <b>Artificial Intelligence</b>. I'm passionate about building scalable, intelligent systems that solve real-world problems. My journey in tech is driven by a curiosity for everything from the intricacies of <b>Full Stack Web Development</b> to the logic of <b>Embedded Systems</b>.
 </p>
 
-- 🤖 **Current Focus**: Exploring  **FullStack Development** and **Machine Learning**
+- 🤖 **Current Focus**: Exploring **FullStack Development** and **Machine Learning**
 - 🌱 **Learning**: **Next.js, TypeScript, MERN Stack** for high-performance applications
 - 🎯 **Goal**: Contributing to open source and building impactful tech solutions
 - 💡 **Philosophy**: Code with purpose, learn with passion, build with precision
@@ -111,347 +107,162 @@ I believe in the transformative power of technology. Whether it's creating intel
 
 ---
 
-## 🔥 Highlight Projects
-
-<details>
-<summary><b>💼 AceMe: Where Preparation Meets Precision</b></summary>
-<br>
-<div align="center">
-  <a href="https://github.com/venkideshVenu/AceMe-Where-Preparation-Meets-Precision.git">
-    <img src="https://img.shields.io/badge/🔗_View_Project-0066CC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://ace-me.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
-**🎯 Job interview preparation platform with AI-driven scenario-based questions and comprehensive feedback system.**
-
-### 🛠️ Technical Architecture
-
-- **Frontend**: Next.js 14 with App Router, TypeScript for type safety
-- **Authentication**: Firebase Auth with custom user flow
-- **Styling**: Tailwind CSS with responsive design patterns
-- **Validation**: Zod schemas for form validation and data integrity
-- **UX**: Sonner for toast notifications, smooth transitions
-
-### ⚡ Key Features
-
-> 🧠 **Smart Interview Scenarios** - AI-generated questions based on job roles  
-> 📊 **Performance Analytics** - Detailed feedback and improvement suggestions  
-> 🔐 **Secure Authentication** - Firebase-based user management  
-> 📱 **Responsive Design** - Optimized for all devices  
-> ⚡ **Real-time Feedback** - Instant performance evaluation
-
-### 🏗️ Project Structure
-
-```
-app/
-├── (auth)/          # Authentication routes
-├── (main)/          # Core application pages
-├── components/      # Reusable UI components
-├── firebase/        # Firebase configuration
-├── lib/            # Utilities and actions
-└── public/         # Static assets
-```
+<h2 align="center">🚀 Featured Projects Portfolio</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Interview_Prep-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <p><b>Explore my top projects below. Each card shows the main features, tech stack, and direct links for code and demos. For more, visit my repositories!</b></p>
 </div>
-</details>
-
-<details>
-<summary><b>📸 SnapFlow: Intelligent Event Photo Manager</b></summary>
-<br>
-
-
-**🤖 AI-powered event gallery platform with advanced face recognition and privacy-first photo management.**
-
-### 🛠️ Technical Architecture
-
-- **Backend**: Django with modular app architecture
-- **AI/ML**: DeepFace, MediaPipe, OpenCV, TensorFlow stack
-- **Async Processing**: Celery with Redis for background tasks
-- **Recognition**: face_recognition library with perceptual hashing
-- **Privacy**: GDPR compliance with consent management
-
-### ⚡ Key Features
-
-> 👥 **Face Recognition** - Advanced AI identification using DeepFace  
-> 🎯 **Quality Scoring** - AI-based photo categorization and ranking  
-> 🔍 **Duplicate Detection** - Perceptual hashing algorithms  
-> 🎭 **Multi-Role System** - Organizers, photographers, participants  
-> 🔒 **Privacy Controls** - Face blur requests and consent system  
-> 📧 **Smart Notifications** - Digest system with email integration  
-> 📱 **QR Generation** - Dynamic invitation cards and codes
-
-### 🏗️ Data Flow Architecture
-
-```
-Event Creation → Photo Upload → Async AI Processing →
-Face Recognition → Gallery Organization → Notification System
-```
-
-### 📦 Modular Apps
-
-- `users/` - User management and roles
-- `events/` - Event creation and management
-- `photos/` - Photo upload and processing
-- `highlights/` - AI-curated content
-- `privacy/` - GDPR and consent handling
-- `notifications/` - Digest and alert system
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-AI_Gallery-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
+          <h3>💼 AceMe: Interview Preparation Platform</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=AceMe-Where-Preparation-Meets-Precision&theme=tokyonight&hide_border=true" />
+          <p><b>Tech Stack:</b> Next.js, TypeScript, Firebase, Tailwind CSS, Zod, Sonner</p>
+          <ul>
+            <li>🧠 AI-driven scenario-based interview questions</li>
+            <li>🔐 Firebase authentication</li>
+            <li>📊 Performance analytics & feedback</li>
+            <li>📱 Responsive UI with Tailwind</li>
+            <li>⚡ Real-time feedback & notifications</li>
+          </ul>
+          <div>
+            <a href="https://github.com/venkideshVenu/AceMe-Where-Preparation-Meets-Precision.git">
+              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://ace-me.vercel.app/">
+              <img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
+          <h3>📸 SnapFlow: AI Photo Manager</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=SnapFlow-From-Clicks-to-Memories-Demo&theme=tokyonight&hide_border=true" />
+          <p><b>Tech Stack:</b> Django, Celery, Redis, DeepFace, MediaPipe, OpenCV, TensorFlow, Bootstrap</p>
+          <ul>
+            <li>👥 Face recognition (DeepFace, MediaPipe)</li>
+            <li>🎯 AI-based photo quality scoring</li>
+            <li>🔍 Duplicate detection</li>
+            <li>� Privacy controls & GDPR compliance</li>
+            <li>📧 Notification digests & QR generation</li>
+          </ul>
+          <div>
+            <a href="https://github.com/venkideshvenu/SnapFlow----From-Clicks-to-Memories">
+              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <span>
+              <img src="https://img.shields.io/badge/Demo-Coming_Soon-FFA500?style=for-the-badge&logo=heroku&logoColor=white" />
+            </span>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
+          <h3>🌐 VConnect: Digital Ecosystem</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=VConnect---The-Complete-WebApp&theme=tokyonight&hide_border=true" />
+          <p><b>Tech Stack:</b> Django, Python, SQLite, Redis, HTML, CSS, JavaScript, Bootstrap</p>
+          <ul>
+            <li>📱 SocialHub: Posts, likes, comments</li>
+            <li>💼 CareerConnect: Job listings & applications</li>
+            <li>🚲 RideShare: Bike rental system</li>
+            <li>🎓 LearnHub: Courses & progress tracking</li>
+            <li>💬 Real-time chat & notifications</li>
+          </ul>
+          <div>
+            <a href="https://github.com/venkideshVenu/VConnect---The-Complete-WebApp/">
+              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://venkidesh.eu.pythonanywhere.com/">
+              <img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
+          <h3>🛒 Field2Fork: Farm-to-Table</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=Field2Fork&theme=tokyonight&hide_border=true" />
+          <p><b>Tech Stack:</b> Django, Pillow, SQLite, python-dotenv</p>
+          <ul>
+            <li>🏪 Dual marketplace: Store & Producer</li>
+            <li>🛒 Full e-commerce flow</li>
+            <li>💳 Smart cart system</li>
+            <li>📚 Health info articles</li>
+            <li>🔧 Admin dashboard (CRUD)</li>
+          </ul>
+          <div>
+            <a href="https://github.com/venkideshVenu/Field2Fork.git">
+              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <span>
+              <img src="https://img.shields.io/badge/Demo-Coming_Soon-FFA500?style=for-the-badge&logo=vercel&logoColor=white" />
+            </span>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
+          <h3>📝 QuickBlog: AI Blog Platform</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=QuickBlog-AI-Powered-Blog&theme=tokyonight&hide_border=true" />
+          <p><b>Tech Stack:</b> React, Node.js, MongoDB, Vite, Quill.js, Gemini AI, ImageKit</p>
+          <ul>
+            <li>🤖 AI content creation (Gemini API)</li>
+            <li>✍️ Rich-text post creation (Quill.js)</li>
+            <li>🖼️ ImageKit CDN integration</li>
+            <li>🔐 JWT-authenticated admin dashboard</li>
+            <li>📧 Newsletter subscription</li>
+          </ul>
+          <div>
+            <a href="https://github.com/venkideshVenu/QuickBlog-AI-Powered-Blog.git">
+              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://quick-blog-ai-powered-blog.vercel.app/">
+              <img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white" />
+            </a>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222">
+          <h3>🏏 SixersClub: Cricket Platform</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=SixersClub&theme=tokyonight&hide_border=true" />
+          <p><b>Tech Stack:</b> Django, Python, SQLite, Pillow, Bootstrap, JavaScript</p>
+          <ul>
+            <li>👥 Multi-role: Team managers, players, fans</li>
+            <li>🏆 Tournament management & registration</li>
+            <li>📋 Player registration workflows</li>
+            <li>� Community news system</li>
+            <li>🎨 Modern cricket-themed UI</li>
+          </ul>
+          <div>
+            <a href="https://github.com/venkideshVenu/SixersClub.git">
+              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <span>
+              <img src="https://img.shields.io/badge/Demo-Coming_Soon-FFA500?style=for-the-badge&logo=heroku&logoColor=white" />
+            </span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-</details>
-
-<details>
-<summary><b>🌐 VConnect: The Complete Digital Ecosystem</b></summary>
-<br>
-
-
-**🎯 All-in-one digital ecosystem combining 12 integrated applications for social, career, and utility needs.**
-
-### 🛠️ Technical Architecture
-
-- **Framework**: Django monolithic with modular app architecture
-- **Database**: SQLite with Redis for caching and sessions
-- **Frontend**: Responsive Bootstrap with vanilla JavaScript
-- **Real-time**: WebSocket integration for chat functionality
-
-### ⚡ Integrated Applications (12-in-1)
-
-> 📱 **SocialHub** - Posts, follows, likes, comments, notifications  
-> 💼 **CareerConnect** - Job portal for employers and job seekers  
-> 🚲 **RideShare** - Bike rental with multi-role management  
-> 🎓 **LearnHub** - Course catalog with progress tracking  
-> 💬 **Chat** - Real-time messaging and group conversations  
-> ✅ **Tasks** - Project and task management system  
-> 📰 **News** - Public news reader and aggregator  
-> 👤 **Core/Profile** - Authentication and profile management  
-> 🧭 **Global Navigation** - Floating home button across apps
-
-### 🏗️ System Architecture
-
-```
-Django Project
-├── socialhub/       # Social media features
-├── careerconnect/   # Job portal
-├── rideshare/       # Bike rental system
-├── learnhub/        # E-learning platform
-├── chat/           # Real-time messaging
-├── tasks/          # Task management
-├── news/           # News aggregator
-├── core/           # Auth & profiles
-└── navigation/     # Global navigation
-```
-
-### 🎯 Key Technical Features
-
-- **Modular Design**: Each app functions independently
-- **Shared Authentication**: Single sign-on across all modules
-- **Real-time Updates**: Live notifications and chat
-- **Role-based Access**: Different permissions per application
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Full_Ecosystem-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Apps-12_Integrated-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-</div>
-</details>
-
-<details>
-<summary><b>🛒 Field2Fork: Farm-to-Table E-Commerce</b></summary>
-<br>
-<div align="center">
-  <a href="https://github.com/venkideshVenu/Field2Fork.git">
-    <img src="https://img.shields.io/badge/🔗_View_Project-0066CC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-
-**🌱 Direct farm-to-table marketplace connecting producers with consumers, featuring dual marketplace system and health awareness.**
-
-### 🛠️ Technical Architecture
-
-- **Framework**: Django with custom user model
-- **Media**: Pillow for image processing and optimization
-- **Database**: SQLite with optimized queries
-- **Configuration**: python-dotenv for environment management
-
-### ⚡ Key Features
-
-> 🏪 **Dual Marketplace** - Separate store and producer systems  
-> 🛒 **Complete E-commerce** - Catalog, search, cart, checkout flow  
-> 💳 **Smart Cart System** - Session-based and account-linked  
-> 👤 **Custom User Model** - Extended with billing information  
-> 📚 **Health Hub** - Nutrition and food awareness articles  
-> 🔧 **Admin Dashboard** - Full CRUD operations for all entities
-
-### 🏗️ Modular Architecture
-
-```
-Django Apps Structure
-├── accountsAndLogin/    # User authentication & profiles
-├── store/              # E-commerce store functionality
-├── marketplace/        # Producer marketplace
-├── cart/              # Shopping cart system
-├── categories/        # Product categorization
-└── healthinfo/        # Health awareness content
-```
-
-### 🎯 Technical Highlights
-
-- **Custom Context Processor**: Global category access
-- **Session Management**: Persistent cart across sessions
-- **Image Optimization**: Automated resizing and compression
-- **SEO Optimization**: Meta tags and structured data
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-E_Commerce-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pillow-FF6B6B?style=flat-square" />
-</div>
-</details>
-
-<details>
-<summary><b>📝 QuickBlog: AI-Powered Blog Platform</b></summary>
-<br>
-<div align="center">
-  <a href="https://github.com/venkideshVenu/QuickBlog-AI-Powered-Blog.git">
-    <img src="https://img.shields.io/badge/🔗_View_Project-0066CC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://quick-blog-ai-powered-blog.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</div>
-
-**✨ Modern MERN blogging platform with AI content generation, rich text editing, and professional admin dashboard.**
-
-### 🛠️ Technical Architecture
-
-- **Frontend**: React 18 + Vite with code splitting
-- **Backend**: Node.js + Express with MVC pattern
-- **Database**: MongoDB with Mongoose ODM
-- **AI Integration**: Google Gemini API for content generation
-- **CDN**: ImageKit for optimized image delivery
-
-### ⚡ Key Features
-
-> 🤖 **AI Content Creation** - Google Gemini-powered post generation  
-> ✍️ **Rich Text Editor** - Quill.js with custom toolbar  
-> 🖼️ **Smart Image Handling** - WebP optimization, drag-drop, CDN  
-> 🔐 **JWT Admin Dashboard** - Secure authentication with analytics  
-> 📧 **Newsletter System** - Subscription and email management  
-> ⚡ **Performance Optimized** - SSR, code splitting, SEO ready
-
-### 🏗️ Monorepo Structure
-
-```
-QuickBlog/
-├── client/             # React + Vite frontend
-│   ├── src/
-│   │   ├── components/ # Reusable UI components
-│   │   ├── pages/     # Route-based pages
-│   │   ├── hooks/     # Custom React hooks
-│   │   └── utils/     # Helper functions
-└── server/            # Express backend
-    ├── models/        # MongoDB schemas
-    ├── routes/        # API endpoints
-    ├── middleware/    # Auth & validation
-    └── controllers/   # Business logic
-```
-
-### 🎯 Technical Highlights
-
-- **MVC Architecture**: Clean separation of concerns
-- **JWT Authentication**: Secure token-based auth
-- **Image Optimization**: Automatic WebP conversion
-- **Real-time Features**: Hot reloading and instant feedback
-- **SEO Optimization**: Meta tags and Open Graph
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-AI_Blog-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</div>
-</details>
-
-<details>
-<summary><b>🏏 SixersClub: Cricket Tournament Platform</b></summary>
-<br>
-<div align="center">
-  <a href="https://github.com/venkideshVenu/SixersClub.git">
-    <img src="https://img.shields.io/badge/🔗_View_Project-0066CC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-
-**🏆 Comprehensive cricket tournament management platform with community features and modern cricket-themed UI.**
-
-### 🛠️ Technical Architecture
-
-- **Framework**: Django with modular app design
-- **Media Processing**: Pillow for image handling
-- **Database**: SQLite with optimized cricket data models
-- **Frontend**: HTML5, CSS3, Bootstrap with custom cricket theme
-
-### ⚡ Key Features
-
-> 👥 **Multi-Role System** - Team managers, players with IDs, fans  
-> 🏆 **Tournament Management** - Format options and registration  
-> 📋 **Player Registration** - Complete workflow with verification  
-> 📰 **Community News** - Article system with image uploads  
-> 🎨 **Cricket Theme UI** - Modern design with sport aesthetics  
-> 📊 **Statistics Tracking** - Player and team performance metrics
-
-### 🏗️ Modular Architecture
-
-```
-SixersClub/
-├── accounts/          # User management & roles
-├── tournaments/       # Tournament creation & management
-├── registrations/     # Player & team registration
-├── news/             # Community news system
-├── home/             # Landing pages
-├── templates/        # Shared UI templates
-└── static/           # CSS, JS, images
-```
-
-### 🎯 Cricket-Specific Features
-
-- **Player ID System**: Unique identification for players
-- **Tournament Formats**: Support for different cricket formats
-- **Team Management**: Complete team registration workflows
-- **News System**: Community engagement with image support
-- **Responsive Design**: Mobile-first cricket theme
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Sports_Platform-teal?style=flat-square" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</div>
-</details>
 
 <div align="center">
   <a href="https://github.com/venkideshVenu?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
-
 
 <h2 align="center">📊 GitHub Analytics & Insights</h2>
 
