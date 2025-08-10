@@ -119,14 +119,14 @@ I believe in the transformative power of technology. Whether it's creating intel
       <td width="50%" valign="top">
         <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
           <h3>💼 AceMe: Interview Preparation Platform</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=AceMe-Where-Preparation-Meets-Precision&theme=tokyonight&hide_border=true" />
+          <div>
           <p><b>Tech Stack:</b> Next.js, TypeScript, Firebase, Tailwind CSS, Zod, Sonner</p>
           <ul>
-            <li>🧠 AI-driven scenario-based interview questions</li>
-            <li>🔐 Firebase authentication</li>
-            <li>📊 Performance analytics & feedback</li>
-            <li>📱 Responsive UI with Tailwind</li>
-            <li>⚡ Real-time feedback & notifications</li>
+            <li> AI-driven scenario-based interview questions</li>
+            <li> Firebase authentication</li>
+            <li> Performance analytics & feedback</li>
+            <li> Responsive UI with Tailwind</li>
+            <li> Real-time feedback & notifications</li>
           </ul>
           <div>
             <a href="https://github.com/venkideshVenu/AceMe-Where-Preparation-Meets-Precision.git">
@@ -141,14 +141,14 @@ I believe in the transformative power of technology. Whether it's creating intel
       <td width="50%" valign="top">
         <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
           <h3>📸 SnapFlow: AI Photo Manager</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=SnapFlow-From-Clicks-to-Memories-Demo&theme=tokyonight&hide_border=true" />
+          <div>
           <p><b>Tech Stack:</b> Django, Celery, Redis, DeepFace, MediaPipe, OpenCV, TensorFlow, Bootstrap</p>
           <ul>
-            <li>👥 Face recognition (DeepFace, MediaPipe)</li>
-            <li>🎯 AI-based photo quality scoring</li>
-            <li>🔍 Duplicate detection</li>
-            <li>� Privacy controls & GDPR compliance</li>
-            <li>📧 Notification digests & QR generation</li>
+            <li> Face recognition (DeepFace, MediaPipe)</li>
+            <li> AI-based photo quality scoring</li>
+            <li> Duplicate detection</li>
+            <li> Privacy controls & GDPR compliance</li>
+            <li> Notification digests & QR generation</li>
           </ul>
           <div>
             <a href="https://github.com/venkideshvenu/SnapFlow----From-Clicks-to-Memories">
@@ -165,14 +165,14 @@ I believe in the transformative power of technology. Whether it's creating intel
       <td width="50%" valign="top">
         <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
           <h3>🌐 VConnect: Digital Ecosystem</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=VConnect---The-Complete-WebApp&theme=tokyonight&hide_border=true" />
+          <div>
           <p><b>Tech Stack:</b> Django, Python, SQLite, Redis, HTML, CSS, JavaScript, Bootstrap</p>
           <ul>
-            <li>📱 SocialHub: Posts, likes, comments</li>
-            <li>💼 CareerConnect: Job listings & applications</li>
-            <li>🚲 RideShare: Bike rental system</li>
-            <li>🎓 LearnHub: Courses & progress tracking</li>
-            <li>💬 Real-time chat & notifications</li>
+            <li> SocialHub: Posts, likes, comments</li>
+            <li> CareerConnect: Job listings & applications</li>
+            <li> RideShare: Bike rental system</li>
+            <li> LearnHub: Courses & progress tracking</li>
+            <li> Real-time chat & notifications</li>
           </ul>
           <div>
             <a href="https://github.com/venkideshVenu/VConnect---The-Complete-WebApp/">
@@ -186,39 +186,15 @@ I believe in the transformative power of technology. Whether it's creating intel
       </td>
       <td width="50%" valign="top">
         <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
-          <h3>🛒 Field2Fork: Farm-to-Table</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=Field2Fork&theme=tokyonight&hide_border=true" />
-          <p><b>Tech Stack:</b> Django, Pillow, SQLite, python-dotenv</p>
-          <ul>
-            <li>🏪 Dual marketplace: Store & Producer</li>
-            <li>🛒 Full e-commerce flow</li>
-            <li>💳 Smart cart system</li>
-            <li>📚 Health info articles</li>
-            <li>🔧 Admin dashboard (CRUD)</li>
-          </ul>
-          <div>
-            <a href="https://github.com/venkideshVenu/Field2Fork.git">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <span>
-              <img src="https://img.shields.io/badge/Demo-Coming_Soon-FFA500?style=for-the-badge&logo=vercel&logoColor=white" />
-            </span>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
           <h3>📝 QuickBlog: AI Blog Platform</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=QuickBlog-AI-Powered-Blog&theme=tokyonight&hide_border=true" />
+         <div>
           <p><b>Tech Stack:</b> React, Node.js, MongoDB, Vite, Quill.js, Gemini AI, ImageKit</p>
           <ul>
-            <li>🤖 AI content creation (Gemini API)</li>
-            <li>✍️ Rich-text post creation (Quill.js)</li>
-            <li>🖼️ ImageKit CDN integration</li>
-            <li>🔐 JWT-authenticated admin dashboard</li>
-            <li>📧 Newsletter subscription</li>
+            <li> AI content creation (Gemini API)</li>
+            <li> Rich-text post creation (Quill.js)</li>
+            <li> ImageKit CDN integration</li>
+            <li> JWT-authenticated admin dashboard</li>
+            <li> Newsletter subscription</li>
           </ul>
           <div>
             <a href="https://github.com/venkideshVenu/QuickBlog-AI-Powered-Blog.git">
@@ -230,29 +206,8 @@ I believe in the transformative power of technology. Whether it's creating intel
           </div>
         </div>
       </td>
-      <td width="50%" valign="top">
-        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222">
-          <h3>🏏 SixersClub: Cricket Platform</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkideshVenu&repo=SixersClub&theme=tokyonight&hide_border=true" />
-          <p><b>Tech Stack:</b> Django, Python, SQLite, Pillow, Bootstrap, JavaScript</p>
-          <ul>
-            <li>👥 Multi-role: Team managers, players, fans</li>
-            <li>🏆 Tournament management & registration</li>
-            <li>📋 Player registration workflows</li>
-            <li>� Community news system</li>
-            <li>🎨 Modern cricket-themed UI</li>
-          </ul>
-          <div>
-            <a href="https://github.com/venkideshVenu/SixersClub.git">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <span>
-              <img src="https://img.shields.io/badge/Demo-Coming_Soon-FFA500?style=for-the-badge&logo=heroku&logoColor=white" />
-            </span>
-          </div>
-        </div>
-      </td>
     </tr>
+
   </table>
 </div>
 
