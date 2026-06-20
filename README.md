@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Venkidesh%20Venu&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Innovator&descAlign=50&descAlignY=60&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Venkidesh%20Venu&fontSize=90&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
 </div>
 
 <h1 align="center">
@@ -14,8 +14,8 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=venkideshvenu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Kerala,%20India-blue?style=flat-square&logo=india" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-brightgreen?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-JavaScript%20%26%20Python-red?style=flat-square" alt="Languages" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Builds-Rust%20%7C%20TypeScript%20%7C%20Python-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Speaks-Code%20%26%20Coffee-blue?style=flat-square" alt="Speaks" />
 </div>
 
@@ -29,20 +29,22 @@
 
 ### About Me
 
-<p>
-Hey there! I'm Venkidesh, a final-year Computer Science student at <b>MITS Kerala</b> with a specialization in <b>Artificial Intelligence</b>. I'm passionate about building scalable, intelligent systems that solve real-world problems. My journey in tech is driven by a curiosity for everything from the intricacies of <b>Full Stack Web Development</b> to the logic of <b>Embedded Systems</b>.
-</p>
+Hey there! I'm Venkidesh, a Computer Science (Artificial Intelligence) graduate from MITS Kerala and a passionate Full-Stack Developer with a strong interest in AI-powered applications, desktop software, and scalable web platforms.
 
-- **Current Focus**: Exploring **FullStack Development** and **Machine Learning**
-- **Learning**: **Next.js, TypeScript, MERN Stack** for high-performance applications
-- **Goal**: Contributing to open source and building impactful tech solutions
-- **Philosophy**: Code with purpose, learn with passion, build with precision
-- **Fun Fact**: I debug with coffee and deploy with determination!
+I enjoy transforming ideas into practical products—from intelligent web applications and AI solutions to cross-platform desktop software. My development journey spans Full Stack Development, Machine Learning, Systems Programming, and Modern Desktop Application Development.
 
-<h3 align="left"> My Passion</h3>
-<p>
-I believe in the transformative power of technology. Whether it's creating intelligent chatbots, building responsive web applications, or diving into the depths of neural networks, I'm always excited to turn ideas into reality. My code doesn't just run—it solves problems, creates experiences, and hopefully makes someone's day a little better.
-</p>
+- 🚀 Current Focus: Building production-ready software and open-source projects
+- 🦀 Working With: Rust, Tauri, TypeScript, React, Next.js, Python
+- 🤖 Exploring: AI-powered applications, local-first software, and developer tools
+- 🌱 Learning: Rust, System Design, and Cloud Technologies
+- 🎯 Goal: Contribute to impactful products and grow as a Software Engineer
+- 💡 Philosophy: Build useful things, write maintainable code, never stop learning
+
+### My Passion
+
+I believe technology is most valuable when it solves real-world problems. Whether it's developing intelligent AI systems, creating seamless user experiences, or building efficient developer tools, I enjoy turning complex challenges into elegant solutions.
+
+My focus isn't just writing code—it's creating products that people genuinely enjoy using.
 
 ---
 
@@ -69,10 +71,7 @@ I believe in the transformative power of technology. Whether it's creating intel
   </a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Always%20Interested%20In-Collaboration-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coffee%20Chat%3F-Let's%20Go!-orange?style=for-the-badge" />
-</div>
+
 
 ---
 
@@ -80,19 +79,19 @@ I believe in the transformative power of technology. Whether it's creating intel
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,django,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,django,flutter&theme=dark" />
   
   <h3>Frontend & Design</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite&theme=dark" />
   
-  <h3>🤖 AI & Data Science</h3>
+  <h3>AI & Data Science</h3>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   
   <h3>Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,googlecloud,aws,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,googlecloud,aws&theme=dark" />
   
   <h3>Tools & DevOps</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
@@ -224,14 +223,6 @@ I believe in the transformative power of technology. Whether it's creating intel
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=venkideshvenu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=venkideshVenu&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <h3>GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=venkideshvenu&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 
 ---
