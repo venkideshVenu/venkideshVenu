@@ -102,116 +102,114 @@ My focus isn't just writing code—it's creating products that people genuinely 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkideshvenu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+
 ---
 
-<h2 align="center">Featured Projects Portfolio</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <p><b>Explore my top projects below. Each card shows the main features, tech stack, and direct links for code and demos. For more, visit my repositories!</b></p>
+  <i>Building products that combine great user experiences with modern engineering.</i>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
-          <h3>AceMe: Interview Preparation Platform</h3>
-          <div>
-          <p><b>Tech Stack:</b> Next.js, TypeScript, Firebase, Tailwind CSS, Zod, Sonner</p>
-          <ul>
-            <li> AI-driven scenario-based interview questions</li>
-            <li> Firebase authentication</li>
-            <li> Performance analytics & feedback</li>
-            <li> Responsive UI with Tailwind</li>
-            <li> Real-time feedback & notifications</li>
-          </ul>
-          <div>
-            <a href="https://github.com/venkideshVenu/AceMe-Where-Preparation-Meets-Precision.git">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://ace-me.vercel.app/">
-              <img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white" />
-            </a>
-          </div>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
-          <h3>SnapFlow: AI Photo Manager</h3>
-          <div>
-          <p><b>Tech Stack:</b> Django, Celery, Redis, DeepFace, MediaPipe, OpenCV, TensorFlow, Bootstrap</p>
-          <ul>
-            <li> Face recognition (DeepFace, MediaPipe)</li>
-            <li> AI-based photo quality scoring</li>
-            <li> Duplicate detection</li>
-            <li> Privacy controls & GDPR compliance</li>
-            <li> Notification digests & QR generation</li>
-          </ul>
-          <div>
-            <a href="https://github.com/venkideshVenu/SnapFlow-From-Clicks-to-Memories-Demo">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <span>
-              <img src="https://img.shields.io/badge/Demo-Coming_Soon-FFA500?style=for-the-badge&logo=heroku&logoColor=white" />
-            </span>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
-          <h3>VConnect: Digital Ecosystem</h3>
-          <div>
-          <p><b>Tech Stack:</b> Django, Python, SQLite, Redis, HTML, CSS, JavaScript, Bootstrap</p>
-          <ul>
-            <li> SocialHub: Posts, likes, comments</li>
-            <li> CareerConnect: Job listings & applications</li>
-            <li> RideShare: Bike rental system</li>
-            <li> LearnHub: Courses & progress tracking</li>
-            <li> Real-time chat & notifications</li>
-          </ul>
-          <div>
-            <a href="https://github.com/venkideshVenu/VConnect---The-Complete-WebApp/">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://venkidesh.eu.pythonanywhere.com/">
-              <img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white" />
-            </a>
-          </div>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="left" style="border:1px solid #e0e0e0; border-radius:12px; padding:16px; margin:8px; background:#f9f9f9; color:#222;">
-          <h3>QuickBlog: AI Blog Platform</h3>
-         <div>
-          <p><b>Tech Stack:</b> React, Node.js, MongoDB, Vite, Quill.js, Gemini AI, ImageKit</p>
-          <ul>
-            <li> AI content creation (Gemini API)</li>
-            <li> Rich-text post creation (Quill.js)</li>
-            <li> ImageKit CDN integration</li>
-            <li> JWT-authenticated admin dashboard</li>
-            <li> Newsletter subscription</li>
-          </ul>
-          <div>
-            <a href="https://github.com/venkideshVenu/QuickBlog-AI-Powered-Blog.git">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://quick-blog-ai-powered-blog.vercel.app/">
-              <img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white" />
-            </a>
-          </div>
-        </div>
-      </td>
-    </tr>
+<br>
 
-  </table>
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+## ⚡ FluxNet
+
+A modern cross-platform **network monitoring desktop application** built with **Rust + Tauri**.
+
+**Highlights**
+- 🦀 Native Rust backend
+- 🖥️ Floating desktop widgets
+- 📈 Real-time bandwidth monitoring
+- 🎨 Modern Windows UI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://github.com/venkideshVenu/FluxNet">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🎯 AceMe
+
+An **AI-powered interview preparation platform** that simulates realistic interview experiences.
+
+**Highlights**
+- 🤖 AI interview generation
+- 📊 Performance analytics
+- 🔥 Firebase authentication
+- 💬 Instant AI feedback
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://github.com/venkideshVenu/AceMe-Where-Preparation-Meets-Precision">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://ace-me.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel">
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 📸 SnapFlow
+
+An **AI-powered photo management platform** for photographers with intelligent automation.
+
+**Highlights**
+- 🧠 Face recognition
+- ✨ AI photo scoring
+- 🔍 Duplicate detection
+- 📂 Smart organization
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis" />
+</p>
+
+<p align="center">
+<a href="https://github.com/venkideshVenu/SnapFlow-From-Clicks-to-Memories-Demo">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/venkideshVenu?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+### 💼 More Projects
+
+<a href="https://github.com/venkideshVenu?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </div>
 
 ---
